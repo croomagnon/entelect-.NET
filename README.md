@@ -1,4 +1,16 @@
+# **Do not code like this. I forked this repository because I wanted to take a snapshot of it.**
+
+- Claims to be domain driven design but does not understand the concept of Aggregate Root, nor Value Object
+- Anemic domain model
+- Probably hasn't heard about the record type.
+- Claims to be REST API, but does not grasp RFC 7807
+- Appears not to have heard about the Options pattern
+- No .editorconfig
+- No Directory.Build.props to manage dotnet runtime or package versions from root location
+
 <img align="left" width="116" height="116" src="./Assets/net-logo.svg" />
+
+
 
 # &nbsp;**Welcome to the .NET Incubator** [![CodeQL](https://github.com/entelect-incubator/.NET/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/entelect-incubator/.NET/actions/workflows/codeql-analysis.yml) [![Twitter Follow](https://img.shields.io/twitter/follow/Entelect.svg?style=social&label=Follow)](https://twitter.com/Entelect)
 
